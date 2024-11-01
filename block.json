@@ -1,0 +1,16 @@
+{
+	"apiVersion": 2,
+	"name": "federico-cadierno/simple-tooltipfy",
+	"version": "0.1.4",
+	"title": "Simple Tooltipfy",
+	"category": "design",
+	"icon": "smiley",
+	"description": "This plugin can display anything extra information you need for your copy, also you can choose background color, tooltip direction and tooltip opacity as well.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "simple-tooltipfy",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
